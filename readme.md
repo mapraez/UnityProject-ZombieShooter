@@ -2,6 +2,7 @@
 
 Udemy course Unity3D Project  
 <a href="https://simmercdn.com/unity/ACcDX7o8SIhpe2f7EMxhyjMOBcB2/content/083db3cd-4dab-8c44-70f3-61f703e5f22e/screens/2.png">Screenshot</a>  
+![ScreenShot](https://simmercdn.com/unity/ACcDX7o8SIhpe2f7EMxhyjMOBcB2/content/083db3cd-4dab-8c44-70f3-61f703e5f22e/screens/2.png)
 Build is uploaded and available to play ---> <a href="https://sharemygame.com/@Trihkal/zombieshooter">Here</a>  
 
 My first published Unity game!  
